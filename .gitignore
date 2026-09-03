@@ -1,0 +1,32 @@
+# Personal configuration (paths, ports, RAM) - everyone has their own
+config.bat
+
+# In case the server ever gets installed INSIDE this repo:
+# never commit mods (copyright), world data, logs, or Forge/Java binaries
+mods/
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
+libraries/
+versions/
+cache/
+*.jar
+*.log
+eula.txt
+server.properties
+user_jvm_args.txt
+usercache.json
+usernamecache.json
+ops.json
+whitelist.json
+banned-players.json
+banned-ips.json
+session.lock
+run.bat
+run.sh
+
+# Common Windows clutter
+Thumbs.db
+desktop.ini
