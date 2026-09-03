@@ -10,7 +10,7 @@ ready to use.
 
 ## Requirements
 
-- Windows 10
+- Windows 10 or higher
 - [Java 17](https://adoptium.net/temurin/releases/?version=17) (Adoptium Temurin recommended)
 - `curl` (built into Windows 10 since build 1803)
 
